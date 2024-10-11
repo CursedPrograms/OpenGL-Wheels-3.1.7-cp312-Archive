@@ -1,4 +1,9 @@
 *.json linguist-vendored=false
 *.json linguist-generated=false
 *.json linguist-documentation=false
-*.json linguist-detectable=true
+*.json linguist-detectable=true\
+
+*.whl linguist-vendored=false
+*.whl linguist-generated=false
+*.whl linguist-documentation=false
+*.whl linguist-detectable=true
